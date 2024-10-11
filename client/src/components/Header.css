@@ -1,0 +1,12 @@
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5em 2em;
+    font-size: calc(2em);
+    color: white;
+}
+
+.Header {
+    background-color: #181c24;
+}

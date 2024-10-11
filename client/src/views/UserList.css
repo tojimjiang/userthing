@@ -1,0 +1,50 @@
+.user-list-title {
+  text-align: center;
+}
+
+.user-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  max-width: 80rem;
+}
+
+.user-list-card-avatar {
+  height: 4em;
+}
+
+.MuiCard-root {
+  margin: 1rem;
+  max-width: 25rem;
+}
+
+.MuiCardContent-root {
+  display: flex;
+  font-size: 1rem;
+  min-height: 1rem;
+  min-width: 20rem;
+}
+
+.email-link, .email-link:link, .email-link:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.email-link:hover, .email-link:active {
+  color: white;
+  background-color: black;
+}
+
+.user-no-status {
+  color: gray;
+}
+
+.user-name {
+  font-size: 1.33rem;
+}
+
+.user-email {
+  font-size: 0.8rem;
+}
