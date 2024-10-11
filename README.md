@@ -1,7 +1,7 @@
 # userthing
 
 ## Access this from the web at
-- https://userthing-vps-01.jimjiang.com/
+- https://userthing-vps01.jimjiang.com/
   - May be unavailable after 2024-10-15 11:59:59 EST
 
 ## Get this running NOW
